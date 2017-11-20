@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="addMember">Add new</string>
+    <!--activityWelcome-->
+    <string name="textName">Name</string>
+    <string name="textPhone">Phone</string>
+    <string name="textAge">Age</string>
+    <string name="textHeight">Height</string>
+    <string name="textWeight">Weight</string>
+    <string name="textGreasePercentage">% Grease</string>
+    <string name="textIMC">IMC</string>
+    <!--activityRowClient-->
+    <string name="textNameRow">Name</string>
+    <string name="textWeightRow">Weight</string>
+    <string name="textPhoneRow">Phone</string>
+</resources>
