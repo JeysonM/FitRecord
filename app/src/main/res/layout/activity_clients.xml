@@ -12,10 +12,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/colorAccent"
-        android:onClick="clickAdd"
-        android:text="@string/addMember"
+        android:text="Agregar"
         android:textAlignment="center"
         android:textAllCaps="false"
+        android:onClick="clickAdd"
         android:textColor="@color/cardview_light_background"
         android:textSize="18sp"
         android:textStyle="bold" />

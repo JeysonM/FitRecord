@@ -1,17 +1,3 @@
 <resources>
     <string name="app_name">diplomadoFit</string>
-    <string name="addMember">Agregar</string>
-    <!--activityWelcome-->
-    <string name="textName">Nombre Completo</string>
-    <string name="textPhone">Teléfono</string>
-    <string name="textAge">Edad</string>
-    <string name="textHeight">Estatura</string>
-    <string name="textWeight">Peso</string>
-    <string name="textGreasePercentage">% Grasa</string>
-    <string name="textIMC">IMC</string>
-    <!--activityRowClient-->
-    <string name="textNameRow">Nombre</string>
-    <string name="textWeightRow">Peso</string>
-    <string name="textPhoneRow">Teléfono</string>
-
 </resources>
